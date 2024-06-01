@@ -1,2 +1,8 @@
 # project-1
 Improving the Efficiency in Generating  Photographic Faces from the Sketch Images
+
+In recent decades, biometric research has witnessed significant advancements, with particular emphasis on facial recognition due to the ease of data collection. Within law enforcement and criminal investigations, there's a growing interest in automatically retrieving photos of suspects from police mug shot databases, expediting the process of narrowing down potential suspects. Obtaining photos of suspects is often challenging, leading investigators to rely on commercial software or skilled artists to create sketches based on eyewitness descriptions. Apart from security applications, facial photo-sketch synthesis finds various uses. In digital entertainment, such as creating profile photos or avatars.
+
+To develop the photo-sketch synthesis and identification are significant areas of research in computer vision and machine learning. In the field of computer vision, cross-modal face recognition and retrieval which entail matching semantically corresponding instances from various modalities are significant but difficult tasks. Automatic face recognition has garnered a lot of attention recently due to growing demands in application areas like banking, security system access authentication, video surveillance, and law enforcement.
+
+These studies demonstrate the effectiveness of machine learning algorithms like Generative adversarial network, Convolutional Neural Networks ,variational Autoencoders, Super Resolution Generative Adversarial Network, Spatial Generative Adversarial Networks. Most existing research focuses on complex visual information using classification algorithms.
