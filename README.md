@@ -1,5 +1,4 @@
-# project-1
-Improving the Efficiency in Generating  Photographic Faces from the Sketch Images
+# Improving the Efficiency in Generating  Photographic Faces from the Sketch Images
 
 In recent decades, biometric research has witnessed significant advancements, with particular emphasis on facial recognition due to the ease of data collection. Within law enforcement and criminal investigations, there's a growing interest in automatically retrieving photos of suspects from police mug shot databases, expediting the process of narrowing down potential suspects. Obtaining photos of suspects is often challenging, leading investigators to rely on commercial software or skilled artists to create sketches based on eyewitness descriptions. Apart from security applications, facial photo-sketch synthesis finds various uses. In digital entertainment, such as creating profile photos or avatars.
 
